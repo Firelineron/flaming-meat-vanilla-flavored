@@ -1,0 +1,85 @@
+<html>
+    <body style="font-family:sans-serif">
+        <title>Cbf HO</title>
+        <header style="background-color:navy; color:white">
+            <img src="https://cdn1.ozone.ru/s3/multimedia-7/6082608415.jpg" height="100px" width="100px">
+        <h1 style="font-size:50px; text-align:center">UNO - Залог победы.</h1>
+        <h2 style="font-size:40px"> Хочешь побеждать? Ты пришёл по адресу!</h2>
+        </header>
+        <main>
+            <a href="#combo" style="color:black; font-size:25px;">Здесь будут написаны выигрышные ходы и комбинации.</a>
+        <p></p>
+        <a href="#rules" style="color:black; font-size:25px;">Также будут размещены правила.</a>
+        <img src="https://avatars.mds.yandex.net/get-mpic/1715213/img_id2530743533182053842.jpeg/orig" width="500">
+        <img src="https://klev.club/uploads/posts/2023-10/1697623610_klev-club-p-risunki-karti-uno-3.jpg" width="500">
+        <table style="border:2px solid red; background-color:orange; font-size:20px">
+            <tr>
+                <td id="combo">Комбинации</td>
+            </tr>
+            <tr>
+            <td>
+                При карте "0" лучше использовать самую большую цифру в наличии
+            </td>
+            </tr>
+        </table>
+        <p></p>
+        <table style="border:2px dashed red; background-color:orange; font-size:20px">
+            <tr>
+                <td>Ходы</td>
+            </tr>
+            <tr>
+                <td>В ПРОГРЕССЕ</td>
+            </tr>
+        </table>
+        <p></p>
+        <img src="https://sun9-26.userapi.com/impg/13Ol_5i2qxUzPoj_K_zwH10QETm3JGnGQ2FfNA/d7OPT7TLFEM.jpg?size=604x403&quality=95&sign=9044b5924f44819aebee73b3c8bfcec3&type=album">
+        <p style="font-size:25px">
+            Ниже размещены правила. Обязательно ознакомьтесь с ними перед игрой!
+        </p>
+        <table style="border:3px inset cyan; background-color:aquamarine; font-size:20px">
+        <tr>
+            <td id="rules">Правила:</td>
+            </tr>
+            <tr>
+            <td>
+            <p style="font-size:20px">
+            Участники: от двух до 10 человек.
+            </p>
+            <p style="font-size:20px">
+            Ход игры: игрок выкладывает карту, ориентируясь на верхнюю. Класть можно одного достоинства, одного цвета, одного цвета и достоинства или джокера. Если подходящей карточки нет, нужно взять одну из общей колоды.
+            </p>
+            <p style="font-size:20px">
+            Раунд заканчивается: как только один участник сбросит с рук последнюю карту.
+            </p>
+            <p style="font-size:20px">
+            Главная задача: набрать как можно больше баллов.
+            </p>
+            <p style="font-size:20px">
+            Подсчёт баллов: каждый участник складывает значения номиналов карт, которые он не успел сбросить. Общая сумма записывается на счёт победившего в раунде участника. Тот, кто по итогам всех раундов первым наберёт 500 очков, выигрывает.
+            </p>
+            <p style="font-size:20px">
+            Штрафы: если игрок забыл предупредить остальных о последней карте на руках, соперники могут напомнить ему об этом до хода следующего участника. За «напоминание» придётся добрать в закрытую две карты из общей колоды.
+            </p>
+            </td>
+            </tr>
+        </table>
+    
+    <form>
+    <p style="font-size:20px; color:orangered;">Обратная свяязь.</p>
+    <p style="font-size:20px"><label> Имя: <input type="text"></label></p>
+    <p style="font-size:20px"><label> Почта: <input type="email"></label></p>
+    <p style="font-size:20px"><label> Дата: <input type="date"></label></p>
+    <p style="font-size:20px"><label> Телефонный номер: <input type="tel"></label></p>
+    <p style="font-size:20px"><input type="submit" value="Отправить"></p>
+    </form>
+    </main>
+    <footer style="background-color:navy; color:white">
+    <p style="font-size:20px">
+        Телефон: +7 (911) 563-14-48
+    </p>
+    <p style="font-size:20px">
+        Адрес: г. Чернобыль, около места взрыва.
+    </p>
+    </footer>
+    </body>
+</html>
